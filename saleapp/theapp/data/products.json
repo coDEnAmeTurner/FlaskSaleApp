@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 promax",
+    "price": 27000000,
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MM2R3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1634340513000",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 11",
+    "price": 70000000,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-11.png",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S23 Ultra Instinct",
+    "price": 56000000,
+    "image": "https://www.coquedirect.fr/media/catalog/product/cache/19b66f75561569c0c69d64ad96db0c97/product_image/fb38ce4cc8/sbs_instinct_samsung_galaxy_s23_ultra_case_flexible_tpu_backcover_blue.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Huawei CCP",
+    "price": 67000000,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/tablet-new/matepad-13-2-kv.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Lenovo Tab M10 (3rd Gen)",
+    "price": 140000000,
+    "image": "https://bizweb.dktcdn.net/100/471/129/products/minhtuanstore530x500-782aea18-2f4b-4a6e-b360-b90a843c7962.png?v=1704876550193",
+    "category_id": 2
+  }
+]
